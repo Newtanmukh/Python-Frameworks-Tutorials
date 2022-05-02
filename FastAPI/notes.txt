@@ -1,0 +1,23 @@
+super fast web framework
+modern
+
+ASYNCHROUNOUS PROGRMMING : lacking in django
+AUTOMATIC DOCUMENTATION : Instead of POSTMAN, it provides the swagger UI
+REDOC UI : Minimal design and documentation.
+MODERN FEATURES OF PYTHON 
+AUTOCOMPLETE FEATURE.
+Open API : How you create API.
+It return JSON .
+
+
+HTTP Basic security
+OAuth2 (with JWT Tokens)
+Dependency injection
+unlimited plugins
+Testing using itest
+Starlette Features : WebSocket Support, GraphQL Support,in process background tasks,start and shutdown eevents.
+SQL,NOSQL,GraphQL support
+
+
+
+
