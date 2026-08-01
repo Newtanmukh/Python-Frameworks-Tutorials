@@ -18,27 +18,27 @@ The projects in this repository are organized by topic and include hands-on prac
 
 ## Repository Structure
 
-- Corey schafer/ — tutorial materials inspired by Corey Schafer’s Python content
-- FastAPI/ — notes and examples for building APIs with FastAPI
-- FLOWER_CLASSIFICATION/ — flower image classification project
-- IMAGE_CLASSIFICATION/ — image classification notebook and model artifacts
-- INTRO_TO_NEURAL_NETWORKS/ — beginner neural network examples and datasets
-- JSON API/ — JSON and API-related practice files
-- LEGO/ — dataset analysis based on LEGO sets and themes
-- MALL_CUSTOMER/ — customer segmentation and analysis notebook
-- matplotlib/ — Matplotlib tutorial notebooks
-- Neural networks/ — additional neural network learning materials
-- NLP/ — natural language processing notebook
-- numpy/ — NumPy tutorial notebook
-- OS Module/ — examples using Python’s OS module
-- pandas/ — pandas tutorials and CSV examples
-- PANDAS-June2024/ — extra pandas practice notebooks
-- Polars/ — Polars tutorial notebook and data files
-- PREDICTING_HEALTHCARE_COST/ — healthcare cost prediction project
-- seaborn/ — Seaborn visualization tutorial
-- SQLite/ — SQLite database examples
-- Web scraping/ — web scraping tutorial notebook
-- Resume/ — resume-related materials
+- Corey schafer/ — notebooks and materials based on beginner-friendly Python tutorials, focusing on core programming concepts.
+- FastAPI/ — notes covering FastAPI features such as automatic documentation, async support, security, dependency injection, and API design.
+- FLOWER_CLASSIFICATION/ — an image classification project that uses TensorFlow/Keras to train a model on flower images.
+- IMAGE_CLASSIFICATION/ — a deeper image-processing notebook that prepares image datasets with Keras ImageDataGenerator and explores transfer-learning-style workflows.
+- INTRO_TO_NEURAL_NETWORKS/ — simple neural network examples using TensorFlow and pandas to classify points and learn basic network behavior.
+- JSON API/ — practice with JSON parsing, serialization, and working with nested JSON structures.
+- LEGO/ — data analysis on LEGO sets and themes, including merging datasets and exploring licensed sets by year.
+- MALL_CUSTOMER/ — a customer analytics notebook using pandas, seaborn, and KMeans clustering to study demographics and spending patterns.
+- matplotlib/ — tutorials demonstrating plotting fundamentals such as line plots, scatter plots, styling, and grids.
+- Neural networks/ — additional notebooks and examples related to neural network concepts.
+- NLP/ — a notebook focused on natural language processing practice.
+- numpy/ — a tutorial covering arrays, multidimensional data, reshaping, indexing, and numerical operations.
+- OS Module/ — examples showing how to work with files and directories using Python’s OS module.
+- pandas/ — introductory pandas practice with DataFrames, CSV I/O, filtering, null handling, and basic transformations.
+- PANDAS-June2024/ — extra pandas exercises and examples.
+- Polars/ — a notebook introducing Polars for fast DataFrame operations, filtering, grouping, and basic performance comparisons.
+- PREDICTING_HEALTHCARE_COST/ — a healthcare cost prediction notebook that cleans data, prepares features, and trains a linear regression model.
+- seaborn/ — visualizations using Seaborn for line plots, bar plots, scatter plots, and distributions.
+- SQLite/ — a beginner SQLite tutorial covering creating tables, inserting records, and querying data.
+- Web scraping/ — a notebook demonstrating requests and BeautifulSoup for scraping and parsing HTML.
+- Resume/ — resume-related files and supporting materials.
 
 ## Suggested Learning Path
 
