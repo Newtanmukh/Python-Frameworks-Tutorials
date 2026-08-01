@@ -1,64 +1,64 @@
 # Python Frameworks Tutorials
 
-This repository is a personal collection of Python tutorials, notebooks, and mini-projects covering core data science, machine learning, web development, and automation topics.
+This repository is a hands-on collection of Python tutorials, notebooks, and mini-projects covering data science, machine learning, web development, and automation.
 
 ## Overview
 
-The projects in this repository are organized by topic and include hands-on practice with:
+The content in this repository is organized around practical learning goals and includes exercises with:
 
 - Python libraries such as NumPy, pandas, Matplotlib, Seaborn, and Polars
-- Data analysis and visualization workflows
-- Neural networks and machine learning basics
+- Data analysis, cleaning, and visualization workflows
+- Neural networks and beginner machine learning concepts
 - Image classification and computer vision
 - Natural language processing (NLP)
 - Web APIs with FastAPI
 - SQLite database usage
-- Web scraping
+- Web scraping and HTML parsing
 - JSON handling and API-related examples
 
 ## Repository Structure
 
-- Corey schafer/ — notebooks and materials based on beginner-friendly Python tutorials, focusing on core programming concepts.
-- FastAPI/ — notes covering FastAPI features such as automatic documentation, async support, security, dependency injection, and API design.
-- FLOWER_CLASSIFICATION/ — an image classification project that uses TensorFlow/Keras to train a model on flower images.
-- IMAGE_CLASSIFICATION/ — a deeper image-processing notebook that prepares image datasets with Keras ImageDataGenerator and explores transfer-learning-style workflows.
-- INTRO_TO_NEURAL_NETWORKS/ — simple neural network examples using TensorFlow and pandas to classify points and learn basic network behavior.
-- JSON API/ — practice with JSON parsing, serialization, and working with nested JSON structures.
-- LEGO/ — data analysis on LEGO sets and themes, including merging datasets and exploring licensed sets by year.
-- MALL_CUSTOMER/ — a customer analytics notebook using pandas, seaborn, and KMeans clustering to study demographics and spending patterns.
-- matplotlib/ — tutorials demonstrating plotting fundamentals such as line plots, scatter plots, styling, and grids.
-- Neural networks/ — additional notebooks and examples related to neural network concepts.
-- NLP/ — a notebook focused on natural language processing practice.
-- numpy/ — a tutorial covering arrays, multidimensional data, reshaping, indexing, and numerical operations.
-- OS Module/ — examples showing how to work with files and directories using Python’s OS module.
-- pandas/ — introductory pandas practice with DataFrames, CSV I/O, filtering, null handling, and basic transformations.
-- PANDAS-June2024/ — extra pandas exercises and examples.
-- Polars/ — a notebook introducing Polars for fast DataFrame operations, filtering, grouping, and basic performance comparisons.
-- PREDICTING_HEALTHCARE_COST/ — a healthcare cost prediction notebook that cleans data, prepares features, and trains a linear regression model.
-- seaborn/ — visualizations using Seaborn for line plots, bar plots, scatter plots, and distributions.
-- SQLite/ — a beginner SQLite tutorial covering creating tables, inserting records, and querying data.
-- Web scraping/ — a notebook demonstrating requests and BeautifulSoup for scraping and parsing HTML.
-- Resume/ — resume-related files and supporting materials.
+| Project | What it covers |
+| --- | --- |
+| [Corey schafer](Corey%20schafer) | Beginner-friendly tutorial material focused on core Python concepts and programming practice. |
+| [FastAPI](FastAPI) | Notes and examples on FastAPI features such as automatic documentation, async support, security, dependency injection, and API design. |
+| [FLOWER_CLASSIFICATION](FLOWER_CLASSIFICATION) | A flower image classification project using TensorFlow/Keras to train a simple model. |
+| [IMAGE_CLASSIFICATION](IMAGE_CLASSIFICATION) | Image preprocessing and training workflows using Keras ImageDataGenerator and image datasets. |
+| [INTRO_TO_NEURAL_NETWORKS](INTRO_TO_NEURAL_NETWORKS) | Beginner neural network examples that classify points and demonstrate basic network training. |
+| [JSON API](JSON%20API) | Practice with JSON parsing, serialization, and working with nested JSON structures. |
+| [LEGO](LEGO) | Data analysis on LEGO sets and themes, including dataset merging and trend exploration by year. |
+| [MALL_CUSTOMER](MALL_CUSTOMER) | A customer analytics notebook using pandas, seaborn, and KMeans clustering to explore spending behavior. |
+| [matplotlib](matplotlib) | Plotting tutorials covering line charts, scatter plots, styling, and grid customization. |
+| [Neural networks](Neural%20networks) | Additional notebooks and examples related to neural network concepts. |
+| [NLP](NLP) | A notebook focused on practicing natural language processing techniques. |
+| [numpy](numpy) | A tutorial covering arrays, multidimensional data, reshaping, indexing, and numerical operations. |
+| [OS Module](OS%20Module) | Examples that demonstrate working with files and directories using Python’s OS module. |
+| [pandas](pandas) | Introductory pandas practice with DataFrames, CSV files, filtering, null handling, and transformations. |
+| [PANDAS-June2024](PANDAS-June2024) | Extra pandas exercises and examples. |
+| [Polars](Polars) | A notebook introducing Polars for fast DataFrame operations, filtering, grouping, and simple performance comparisons. |
+| [PREDICTING_HEALTHCARE_COST](PREDICTING_HEALTHCARE_COST) | A healthcare cost prediction notebook that cleans data, prepares features, and trains a linear regression model. |
+| [seaborn](seaborn) | Visualizations using Seaborn for distributions, bar plots, line plots, and scatter plots. |
+| [SQLite](SQLite) | A beginner SQLite tutorial showing how to create tables, insert records, and query data. |
+| [Web scraping](Web%20scraping) | A notebook demonstrating requests and BeautifulSoup for scraping and parsing HTML. |
+| [Resume](Resume) | Resume-related files and supporting materials. |
 
 ## Suggested Learning Path
 
-1. Start with the fundamentals: NumPy, pandas, Matplotlib, and Seaborn
-2. Move into data handling and visualization with Polars and SQLite
-3. Explore machine learning through neural network and classification notebooks
-4. Learn web development basics with FastAPI and JSON API examples
-5. Practice data projects such as healthcare cost prediction and customer analysis
-
-## Notes
-
-Some folders contain Jupyter notebooks, while others contain scripts, datasets, or notes. You may need to install specific Python packages depending on the notebook or project you open.
+1. Start with the fundamentals: [numpy](numpy), [pandas](pandas), [matplotlib](matplotlib), and [seaborn](seaborn)
+2. Move into data handling and visualization with [Polars](Polars) and [SQLite](SQLite)
+3. Explore machine learning through [INTRO_TO_NEURAL_NETWORKS](INTRO_TO_NEURAL_NETWORKS), [FLOWER_CLASSIFICATION](FLOWER_CLASSIFICATION), and [IMAGE_CLASSIFICATION](IMAGE_CLASSIFICATION)
+4. Learn web development basics with [FastAPI](FastAPI) and [JSON API](JSON%20API)
+5. Practice applied data projects such as [PREDICTING_HEALTHCARE_COST](PREDICTING_HEALTHCARE_COST) and [MALL_CUSTOMER](MALL_CUSTOMER)
 
 ## Getting Started
 
 To explore this repository:
 
 - Open the notebooks in Jupyter or VS Code
-- Install required dependencies as needed for each project
+- Install the required Python packages for the project you want to run
 - Follow the folders in order if you want a structured learning path
+
+> Some folders contain notebooks, while others include scripts, datasets, or notes. The exact dependencies may vary by project.
 
 This repository is best used as a hands-on reference for learning Python, data science, and beginner machine learning concepts.
 
